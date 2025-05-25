@@ -3,6 +3,8 @@
 "description":"此图标格式为180x180，图标按照服名或群名命名，按照A-Z排列，方便查找。", 
 "icons":
     [
+	{"name":"Aladdin", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Aladdin.png"},
+	
 	{"name":"Bingzhenxigua", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Bingzhenxigua.png"},
 
 	{"name":"CineTrail", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/CineTrail.jpg"},
@@ -67,10 +69,5 @@
 	{"name":"1111", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/1111.png"},
 	    
 	{"name":"Alist", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Alist.png"},
-	{"name":"Music", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Music.png"},
-	{"name":"NiceDuck", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/NiceDuck.png"},
-	{"name":"Aladdin", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Aladdin.png"},
-
-	
     ]
 }
