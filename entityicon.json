@@ -3,49 +3,118 @@
 "description":"此图标格式为180x180，图标按照服名或群名命名，按照A-Z排列，方便查找。", 
 "icons":
     [
-        {"name":"Alphatv", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Alphatv.png"},
-	{"name":"Aurora", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Aurora.png"},
-	    
-	{"name":"Bingzhenxigua", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Bingzhenxigua.png"},
-	    
-	{"name":"Cinetrail", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Cinetrail.png"},
-	{"name":"Caihong", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Caihong.png"},
-	{"name":"Caihong1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Caihong1.png"},
-	    
-        {"name":"Dpeak", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Dpeak.png"},
+	{"name":"Bingzhenxigua", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Bingzhenxigua.png"},
+
+	{"name":"CineTrail", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/CineTrail.png"},
+
+	{"name":"DPeak", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/DPeak.png"},
+
+	{"name":"Feiyue", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Feiyue.png"},
+	{"name":"Feiyuedipingxian", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Feiyuedipingxian.png"},
+	{"name":"Feiyuemtk", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Feiyuemtk.png"},
+	{"name":"Feiyue1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Feiyue.png"},
+	{"name":"Feiyue2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Feiyue1.png"},
+	{"name":"FatBeef", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/FatBeef.png"},
+
+	{"name":"Gugu", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Gugu.png"},
 
 
-	{"name":"Fatbeef", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Fatbeef.png"},
-        
-        {"name":"Iris", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Iris.png"},
-        
-        {"name":"Jianshouqing", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Jianshouqing.png"},
+	{"name":"Jianshouqing", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Jianshouqing.png"},
 
-	{"name":"Lyrebird", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Lyrebird.png"},
-	    
-	{"name":"Mooncake", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Mooncake.png"},
-	    
-	{"name":"Ntrrr", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Ntrrr.png"},
+	{"name":"Jingzhe", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Jingzhe.png"},
+	{"name":"Jingzhe1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Jingzhe1.png"},
+	{"name":"Jingzhe2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Jingzhe2.png"},
+
+
+	{"name":"Lyrebird", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Lyrebird.png"},
+	{"name":"Lyrebird1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Lyrebird1.png"},
+	{"name":"Lemby", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Lemby.png"},
+
+	{"name":"Misty", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Misty.png"},
+	{"name":"Misty+", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Misty+.png"},
+	{"name":"Mooncake", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Mooncake.png"},
+	{"name":"Mooncake1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Mooncake1.png"},
+	{"name":"Mihuansenlin", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Mihuansenlin.png"},
+	{"name":"Mtdb", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Mtdb.png"},
+	{"name":"Mefun", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Mefun.png"},
+										
+	{"name":"Nebula", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Nebula.png"},
+	{"name":"Nebula1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Nebula1.png"},
+	{"name":"Ntrrr", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Ntrrr.png"},
+	{"name":"Ntrrr1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Ntrrr1.png"},
+
+	{"name":"Ntrrr2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Ntrrr.png"},
+	{"name":"Ntrrr3", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Ntrrr3.png"},
+	{"name":"Nebula2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Nebula2.png"},
+
+	{"name":"Odyssey", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Odyssey.png"},
+
+	{"name":"Peach", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Peach.png"},
+	{"name":"Peach1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Peach1.png"},
+	{"name":"PiliPili", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/PiliPili.png"},
+	{"name":"Plumber", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Plumber.png"},
+	{"name":"PornEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/PornEmby.png"},
+	{"name":"Plumber2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Plumber2.png"},
+
+	{"name":"Rjemby", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Rjemby.png"},
+	{"name":"Rjemby1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Rjemby1.png"},
+	{"name":"Rjemby2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Rjemby2.png"},
+
+	{"name":"Shufu", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Shufu.png"},
+	{"name":"StarCat", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/StarCat.png"},
+	{"name":"StudyFun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/StudyFun.png"},
+	{"name":"StudyFun1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/StudyFun1.png"},
+
+	{"name":"Shufu1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Shufu1.png"},
+	{"name":"Shufu2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Shufu2.png"},
+	{"name":"StarCat1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/StarCat1.png"},
+	{"name":"StarCat2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/StarCat2.png"},
+	{"name":"SaturDayLite", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/SaturDayLite.png"},
+	{"name":"SaturDayLite1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/SaturDayLite1.png"},
 	
-	{"name":"Nebula", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Nebula.png"},
-	    
-	{"name":"Pilipili", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Pilipili.png"},
-	{"name":"Peach", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Peach.png"},
-	    
-	{"name":"Rjemby", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Rjemby.png"},
-	    
-	{"name":"Shufu", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Shufu.png"},
-        
-	{"name":"Tecar", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Tecar.png"},
-	{"name":"Tdckemby", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Tdckemby.png"},
-	    
-	{"name":"Violet", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Violet.png"},
+	{"name":"Tanhua", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Tanhua.png"},
+	
+	{"name":"Violet", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Violet.png"},
+	{"name":"Violet1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Violet1.png"},
+	{"name":"Violet2", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Violet2.png"},
 
-        {"name":"Yezi", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Yezi.png"},
-        {"name":"Yezi1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Toun/Fwicon/icon/Yezi1.png"},
-        
-        {"name":"1111", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/transparent/1111.png"}
+	{"name":"Yomo", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Yomo.png"},
+	{"name":"Yomo1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Yomo1.png"},
+	{"name":"Yomo2", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Yomo2.png"},
+
+	{"name":"Yezi", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Yezi.png"},
+	{"name":"Yezi1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Yezi1.png"},
+	{"name":"Yuanwei", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Yuanwei.png"},
+	{"name":"Yingyue", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Yingyue.png"},
+	{"name":"Yingyue1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Yingyue1.png"},
+	{"name":"Youno", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Youno.png"},
+	{"name":"YounoPlus", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/YounoPlus.png"},
+	{"name":"Yunhai", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Yunhai.png"},
+	{"name":"Yunhai1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Yunhai1.png"},
+	{"name":"YunhaiHub", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/YunhaiHub.png"},
+	
+	{"name":"ZhiPianRen", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ZhiPianRen.png"},
+	{"name":"ZhiPianRen1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ZhiPianRen1.png"},
+	{"name":"ZhiPianRen2", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ZhiPianRen2.png"},
+
+	{"name":"1111", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/1111.png"},
+	{"name":"1111gaoma", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Loser1.png"},
+
+	{"name":"Alist", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Alist.png"},
+	{"name":"Webdav", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Webdav.png"},
+	{"name":"BaiDuYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/BaiDuYun.png"},
+
+	{"name":"Nplayer", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Nplayer.png"},
+	{"name":"Infuse", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Infuse.png"},
+	{"name":"Music", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Music.png"},
+	
+	{"name":"NiceDuck", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/NiceDuck.png"},
+	{"name":"NiceDuck1", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/NiceDuck1.png"},
+	{"name":"NiceDuckJMS", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/NiceDuckJMS1.png"},
+	{"name":"NiceDuckDPX", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/NiceDuckDPX.png"},
+	{"name":"NiceDuck1111", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/NiceDuck1111.png"},
+	{"name":"Aladdin", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Aladdin.png"},
+
 	
     ]
 }
-
