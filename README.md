@@ -3,11 +3,13 @@
 
 -📺播放器图标适用于iOS与Android平台的播放器，导入链接后可直接使用，支持拼音检索。-
 
-·实体图标链接🔗：https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/entityicon.json
+·🎬实体图标链接🔗：https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/entityicon.json
 
-·透明图标链接🔗：https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/transparenticon.json
+·🎬透明图标链接🔗：https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/transparenticon.json
 
-⚠️声明：“承诺仅供本人使用并公益分享，图片由官图经过超分后再进行PS尺寸调整而成。严禁私自转载或作商用，有需要可自取。
+⚠️声明：
+
+“承诺仅供本人使用并公益分享，图片由官图经过超分后再进行PS尺寸调整而成。严禁私自转载或作商用，有需要可自取。
 
 🙏同时感谢‘baiitang’与‘Softlyx’两位前辈贡献的图标库以供本人学习，如需其他图标可留言，不定时更新”。🙇‍♂️🙇‍♂️🙇‍♂️
 
