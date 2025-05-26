@@ -3,6 +3,11 @@
 "description":"此图标格式为180x180，按照A-Z排列，方便查找。", 
 "icons":
     [
-        {"name":"Alphatv", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/transparent/Alphatv.png"},
+        {"name":"Liangxingyun", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/Proxy/Liangxingyun.png"},
+        {"name":"Niceduck", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/Proxy/Niceduck.png"},
+        {"name":"SNTP", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/Proxy/SNTP.png"}, 
+        {"name":"SYN", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/Proxy/SYN.png"}, 
+        {"name":"Yunhai", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/Proxy/Yunhai.png"}, 
+        {"name":"Zhongguoguoji", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/Proxy/Zhongguoguoji.png"},
     ]
 }
