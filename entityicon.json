@@ -2,7 +2,9 @@
 "name":"Emby图标@xiyuliu❄️-实体", 
 "description":"此图标格式为180x180，图标按照服名或群名命名，按照A-Z排列，方便查找。", 
 "icons":
-    [
+    [	
+	{"name":"ASK", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/ASK.png"},	
+	{"name":"ASK01", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/ASK01.png"},
 	{"name":"Aladdin", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Aladdin.png"},
 	
 	{"name":"Bingzhenxigua", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Bingzhenxigua.png"},
@@ -20,9 +22,9 @@
 	{"name":"Feiyuedipingxian", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Feiyuedipingxian.png"},
 
 	{"name":"Gugu", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Gugu.png"},
-
+	
+	{"name":"JMS", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/JMS.png"},
 	{"name":"Jianshouqing", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Jianshouqing.png"},
-
 	{"name":"Jingzhe", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Jingzhe.png"},
 	{"name":"Jieshuyuedui", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Jieshuyuedui.png"},
 
@@ -60,6 +62,7 @@
 	{"name":"Violet3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Violet3.png"},
 
 	{"name":"WujieCloud", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/WujieCloud.png"},
+	{"name":"WujieCloud01", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/WujieCloud01.png"},
 
 	{"name":"Yezi", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Yezi.png"},
 	{"name":"Yezi1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Yezi1.png"},
