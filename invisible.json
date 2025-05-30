@@ -1,93 +1,89 @@
 {
-	"name":"Emby图标@xiyuliu❄️-透明", 
-	"description":"此图标模式为180X180，图标按照服名命名，按照A-Z排列。仅个人自用，图源搬运自大佬",  
-	"icons":
-	[
-	{"name":"1111", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/1111.png"},
-	{"name":"ASK", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/ASK.png"},
-		
-	{"name":"冰镇西瓜", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Bingzhenxigua.png"},
-		
-	{"name":"影迹", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Cinetrail.png"},
+ "name":"Emby图标@xiyuliu❄️-透明", 
+ "description":"此图标模式为180X180，图标按照服名命名，按照A-Z排列。仅个人自用，图源搬运自大佬",  
+ "icons":
+ [
+	{"name":"1111", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/1111.png"},
+	 
+	{"name":"ASK", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/ASK.png"},
+	 
+	{"name":"冰镇西瓜", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Bingzhenxigua.png"},
+	 
+	{"name":"影迹", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Cinetrail.png"},
+	 
+	{"name":"Dpeak", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Dpeak.png"},
+	 
+	{"name":"肥牛", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Fatbeef.png"},
+	{"name":"非越", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Feiyue.png"},
+	{"name":"飞跃彩虹", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Caihong.png"},
+	{"name":"飞跃彩虹1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Caihong1.png"},
+	{"name":"飞跃彩虹2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Caihong2.png"},
+	{"name":"飞跃地平线", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/DPX.png"},
+	 
+	{"name":"咕咕", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Gugu.png"},
+	 
+	{"name":"惊蛰", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Jingzhe.png"},
+	{"name":"惊蛰1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Jingzhe1.png"},
+	{"name":"卷毛鼠", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Jms.png"},
+	{"name":"见手青", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/jianshouqing.png"},
+	 
+	{"name":"临境", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Linjing.png"},
+	{"name":"洛北", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Luobei.png"},
+	{"name":"Lemby", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Lemby.png"},
+	{"name":"Lemby1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Lemby1.png"},
+	 
+	{"name":"Misty", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Misty.png"},
+	{"name":"Misty1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Misty1.png"},
+	 
+	{"name":"Ntrrr", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Ntr.png"},
+	{"name":"Nebula", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Nebula.png"},
+	 
+	{"name":"Onyra", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Onyra.png"},
+	{"name":"Onyra1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Onyra1.png"},
+	 
+	{"name":"PlayZ", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Playz.png"},
+	{"name":"PlayZ1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Playz1.png"},
+	{"name":"Peach", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Peach.png"},
+	{"name":"Peach1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Peach1.png"},
+	{"name":"Pilipili", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Pilipili.png"},
+	{"name":"Pornemby", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Pornemby.png"},
+	{"name":"Pornemby1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Pornemby1.png"},
 
-	{"name":"Dpeak", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Dpeak.png"},
-
-	{"name":"肥牛", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Fatbeef.png"},
-	{"name":"非越", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Feiyue.png"},
-	{"name":"飞跃彩虹", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Caihong.png"},
-	{"name":"飞跃彩虹1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Caihong1.png"},	
-	{"name":"飞跃彩虹2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Caihong2.png"},
-	{"name":"飞跃地平线", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/DPX.png"},
-
-	{"name":"咕咕", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Gugu.png"},
-		
-	{"name":"惊蛰", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Jingzhe.png"},
-	{"name":"惊蛰1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Jingzhe1.png"},
-	{"name":"卷毛鼠", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Jms.png"},
-	{"name":"见手青", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/jianshouqing.png"},
-		
-	{"name":"临境", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Linjing.png"},
-	{"name":"洛北", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Luobei.png"},
-	{"name":"Lemby", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Lemby.png"},
-	{"name":"Lemby1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Lemby1.png"},	
-
-	{"name":"Misty", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Misty.png"},
-	{"name":"Misty1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Misty1.png"},
-
-	{"name":"Ntrrr", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Ntr.png"},
-	{"name":"Nebula", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Nebula.png"},
-		
-	{"name":"Onyra", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Onyra.png"},
-	{"name":"Onyra1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Onyra1.png"},
-		
-	{"name":"PlayZ", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Playz.png"},
-	{"name":"PlayZ1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Playz1.png"},	
-	{"name":"Peach", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Peach.png"},
-	{"name":"Peach1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Peach1.png"},
-	{"name":"Pilipili", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Pilipili.png"},
-
-	{"name":"无界云", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/WujieCloud.png"},
-	{"name":"无界云1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/WujieCloud1.png"},
-		
-	{"name":"Pornemby", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Pornemby.png"},
-	{"name":"Pornemby1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Pornemby1.png"},
-		
-	{"name":"起点站", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Qidianzhan.png"},
-		
-	{"name":"入机", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Ruji.png"},
-	{"name":"入机1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Ruji1.png"},
-	{"name":"入机2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Ruji2.png"},
-	{"name":"入境", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Rujing.png"},
-	{"name":"入境1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Rujing1.png"},
-	
-	{"name":"水母", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Shuimu.png"},	
-	{"name":"叔服", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Shufu.png"},
-	{"name":"叔服2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Shufu2.png"},
-	{"name":"叔服3", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Shufu3.png"},
-	{"name":"Staremby", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Staremby.png"},
-	{"name":"StarPorn", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/StarPorn.png"},
-	{"name":"Saturday_Lite", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Saturday_Lite.png"},	
-
-	{"name":"特卡", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Tecar.png"},
-	{"name":"探花", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Tanhua.png"},
-	{"name":"探花1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Tanhua1.png"},
-
-	{"name":"叶子", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Yezi.png"},
-	{"name":"叶子1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Yezi1.png"},
-	{"name":"鸢尾", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Yuanwei.png"},
-	{"name":"月饼", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Yuebing.png"},
-	{"name":"Youno", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Youno.png"},
-	{"name":"Voilet", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Voilet.png"},
-	{"name":"Voilet1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Voilet1.png"},
-	{"name":"云海emby", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Yunhai.png"},
-	{"name":"云海porn", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Yunhai1.png"},
-	
-	{"name":"Zox", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Zox.png"},
-	{"name":"Zox1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Zox1.png"},
-	{"name":"纸片人", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Zhipianren.png"},
-	{"name":"結束バンド", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/結束バンド.png"},
-	{"name":"結束バンド1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/結束バンド1.png"},
-	{"name":"結束バンド2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/結束バンド2.png"},
-		
-  ]
+	{"name":"起点站", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Qidianzhan.png"},
+	 
+	{"name":"入机", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Ruji.png"},
+	{"name":"入机1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Ruji1.png"},
+	{"name":"入机2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Ruji2.png"},
+	{"name":"入境", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Rujing.png"},
+	{"name":"入境1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Rujing1.png"},
+	{"name":"水母", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Shuimu.png"},
+	{"name":"叔服", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Shufu.png"},
+	{"name":"叔服2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Shufu2.png"},
+	{"name":"叔服3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Shufu3.png"},
+	{"name":"Staremby", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Staremby.png"},
+	{"name":"StarPorn", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/StarPorn.png"},
+	{"name":"Saturday_Lite", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Saturday_Lite.png"},
+	 
+	{"name":"特卡", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Tecar.png"},
+	{"name":"探花", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Tanhua.png"},
+	{"name":"探花1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Tanhua1.png"},
+	 
+	{"name":"无界云", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/WujieCloud.png"},
+	{"name":"无界云1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/WujieCloud1.png"},
+	 
+	{"name":"鸢尾", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Yuanwei.png"},
+	{"name":"月饼", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Yuebing.png"},
+	{"name":"叶子", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Yezi.png"},
+	{"name":"叶子1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Yezi1.png"},
+	{"name":"Youno", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Youno.png"},
+	{"name":"Voilet", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Voilet.png"},
+	{"name":"Voilet1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Voilet1.png"},
+	{"name":"云海emby", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Yunhai.png"},
+	{"name":"云海porn", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Yunhai1.png"},
+	 
+	{"name":"纸片人", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Zhipianren.png"},
+	{"name":"結束バンド", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/結束バンド.png"},
+	{"name":"結束バンド1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/結束バンド1.png"},
+	{"name":"結束バンド2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/結束バンド2.png"}
+ ]
 }
