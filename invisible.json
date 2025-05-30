@@ -13,7 +13,8 @@
 	{"name":"肥牛", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Fatbeef.png"},
 	{"name":"非越", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Feiyue.png"},
 	{"name":"飞跃彩虹", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Caihong.png"},
-	{"name":"飞跃彩虹1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Caihong1.png"},
+	{"name":"飞跃彩虹1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Caihong1.png"},	
+	{"name":"飞跃彩虹2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Caihong2.png"},
 	{"name":"飞跃地平线", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/DPX.png"},
 
 	{"name":"咕咕", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Gugu.png"},
@@ -24,7 +25,7 @@
 	{"name":"见手青", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/jianshouqing.png"},
 		
 	{"name":"临境", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Linjing.png"},
-	{"name":"洛北", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Luobo.png"},
+	{"name":"洛北", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Luobei.png"},
 	{"name":"Lemby", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Lemby.png"},
 	{"name":"Lemby1", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Lemby1.png"},	
 
@@ -61,6 +62,8 @@
 	{"name":"叔服", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Shufu.png"},
 	{"name":"叔服2", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Shufu2.png"},
 	{"name":"叔服3", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Shufu3.png"},
+	{"name":"Staremby", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Staremby.png"},
+	{"name":"StarPorn", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/StarPorn.png"},
 	{"name":"Saturday_Lite", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Saturday_Lite.png"},	
 
 	{"name":"特卡", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/Forward/Tecar.png"},
