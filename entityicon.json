@@ -17,6 +17,12 @@
 
 	{"name":"DPeak", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/DPeak.png"},
 
+	{"name":"芙服", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU.png"},
+	{"name":"芙服1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU1.png"},
+	{"name":"芙服2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU2.png"},
+	{"name":"芙服3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU3.png"},
+	{"name":"芙服4", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU4.png"},	
+	{"name":"芙服5", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU5.png"},
 	{"name":"非越", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Feiyue.png"},
 	{"name":"肥牛🐂", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FatBeef.png"},
 	{"name":"Forward", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Forward.png"},
@@ -72,10 +78,7 @@
 
 	{"name":"Violet", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Violet.png"},
 	{"name":"Violet1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Violet1.png"},
-	{"name":"Violet2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Violet2.png"},	
-	{"name":"Violet3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Violet3.png"},	
-	{"name":"Violet4", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Violet4.png"},
-
+	{"name":"Violet2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Violet3.png"},	
 
 	{"name":"无界云☁️", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/WujieCloud.png"},
 	{"name":"无界云1☁️", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/WujieCloud01.png"},
