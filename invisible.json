@@ -3,8 +3,7 @@
  "description":"此图标模式为180X180，图标按照服名命名，按照A-Z排列。仅个人自用，图源搬运自大佬",  
  "icons":
  [
-	 {"name":"Forward", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Forward.png"},	
-	 {"name":"Forward2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Forward2.png"},
+	{"name":"Forward", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Forward2.png"},
 
 	{"name":"1111", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/1111.png"},
 	 
