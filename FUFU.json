@@ -1,6 +1,6 @@
 {
 "name":"芙芙私房照大赏📹", 
-"description":"为师亲手拍摄芙芙私房照图集大赏。", 
+"description":"为师亲手拍摄芙芙私房照图集大赏。内含透明图标与实体图标", 
 "icons":
     [
         {"name":"芙芙", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/fufu.png"},
@@ -36,6 +36,32 @@
 	{"name":"芙芙29", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/fufu29.png"},
 	{"name":"芙芙30", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/fufu31.png"},
 	{"name":"芙芙31", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/fufu32.png"},
+	{"name":"芙芙32", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/fufu34.png"},
+	{"name":"芙芙33", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/fufu35.png"},
+	{"name":"芙芙34", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/fufu36.png"},
+
+	{"name":"芙芙S", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu0.png"},
+	{"name":"芙芙S1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu1.png"},
+	{"name":"芙芙S2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu2.png"},
+	{"name":"芙芙S3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu3.png"},
+	{"name":"芙芙S4", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu4.png"},
+	{"name":"芙芙S5", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu5.png"},
+	{"name":"芙芙S6", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu6.png"},
+	{"name":"芙芙S7", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu7.png"},
+	{"name":"芙芙S8", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu8.png"},
+	{"name":"芙芙S9", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu9.png"},
+	{"name":"芙芙S10", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu10.png"},
+	{"name":"芙芙S11", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu11.png"},
+	{"name":"芙芙S12", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu12.png"},
+	{"name":"芙芙S13", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu13.png"},
+	{"name":"芙芙S14", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu14.png"},
+	{"name":"芙芙S15", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu15.png"},
+	{"name":"芙芙S16", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu16.png"},
+	{"name":"芙芙S17", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu17.png"},
+	{"name":"芙芙S18", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu18.png"},
+	{"name":"芙芙S19", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu19.png"},
+	{"name":"芙芙S20", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-fufu20.png"},
+
 	{"name":"未完待续", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/fufu30.png"}
     ]
 }
