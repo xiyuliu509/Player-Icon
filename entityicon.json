@@ -13,8 +13,6 @@
 
 	{"name":"二刺螈", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Erciyuan.png"},
 
-	{"name":"CineTrail", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/CineTrail.png"},
-
 	{"name":"DPeak", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/DPeak.png"},
 
 	{"name":"芙服", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU.png"},
@@ -37,7 +35,9 @@
 	{"name":"疯狂星期四", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/KFC.png"},
 
 	{"name":"Gugu", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Gugu.png"},
-	
+		
+	{"name":"HKA", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/HKA.png"},
+
 	{"name":"JMS", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/JMS.png"},
 	{"name":"见手青🍄", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Jianshouqing.png"},
 	{"name":"惊蛰", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Jingzhe.png"},
@@ -68,7 +68,6 @@
 
 	{"name":"起点站🎬", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Qidianzhan.png"},
 
-	{"name":"入机", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Rjemby.png"},
 	{"name":"入境", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Rujingemby.png"},
 	    
 	{"name":"水母", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Shuimu.png"},
@@ -82,7 +81,8 @@
 	{"name":"Violet", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Violet.png"},
 	{"name":"Violet1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Violet1.png"},
 	{"name":"Violet2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Violet3.png"},	
-
+	
+	{"name":"稳健", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Wenjian.png"},
 	{"name":"无界云☁️", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/WujieCloud.png"},
 	{"name":"无界云1☁️", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/WujieCloud01.png"},
 	   
