@@ -53,9 +53,39 @@
     {"name":"BBC_炫彩", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/Colorful5.png"},
     {"name":"HBO_炫彩", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/Colorful6.png"},
 
-    {"name":"未完待续🚧", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/UNFUFU.png"},
-    {"name":"测试项目🚧", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/TTTFactory.png"},
-    {"name":"测试项目1🚧", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/TTTFactory0.png"}
 
+    {"name":"漫威", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/MFactory.png"},
+    {"name":"索尼", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/SFactory.png"},
+    {"name":"索尼1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/SFactory0.png"},
+    {"name":"索尼2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/SFactory1.png"},
+    {"name":"索尼3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/SFactory2.png"},
+    {"name":"福克斯", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/FFactory.png"},
+    {"name":"福克斯1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/FFactory0.png"},
+    {"name":"福克斯2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/FFactory1.png"},
+    {"name":"福克斯3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/FFactory2.png"},
+    {"name":"传奇影视", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/LFactory.png"},
+    {"name":"传奇影视", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/LFactory0.png"},
+    {"name":"传奇影视", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/LFactory1.png"},
+    {"name":"环球影视", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/TTTFactory.png"},
+    {"name":"环球影视", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/TTTFactory0.png"},
+    {"name":"哥伦比亚", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/CPFactory.png"},
+    {"name":"哥伦比亚1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/CPFactory0.png"},
+    {"name":"华纳兄弟", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/WBFactory.png"},
+    {"name":"华纳兄弟1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/WBFactory0.png"},
+    {"name":"华纳兄弟2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/WBFactory1.png"},
+    {"name":"华纳兄弟3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/WBFactory2.png"},
+    {"name":"华纳兄弟4", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/WBFactory3.png"},
+    {"name":"华特迪士尼", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/DFactory.png"},
+    {"name":"华特迪士尼1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/DFactory0.png"},
+    {"name":"华特迪士尼2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/DFactory1.png"},
+    {"name":"华特迪士尼3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/DFactory2.png"},
+    {"name":"华特迪士尼4", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/DFactory3.png"},
+    {"name":"派拉蒙影视", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/PFactory.png"},
+    {"name":"派拉蒙影视1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/PFactory0.png"},
+    {"name":"派拉蒙影视2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/PFactory1.png"},
+    {"name":"派拉蒙影视3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/PFactory2.png"},
+    {"name":"派拉蒙影视4", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/Logo/PFactory3.png"},
+
+    {"name":"未完待续🚧", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/UNFUFU.png"}
     ]
 }
