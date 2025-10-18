@@ -20,13 +20,11 @@
 
 	{"name":"非越", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Feiyue.png"},
 	{"name":"肥牛", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FatBeef.png"},
-	{"name":"芙服", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU2.png"},
-	{"name":"芙服0", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU001.png"},
-	{"name":"芙服1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU4.png"},	
-	{"name":"芙服2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU5.png"},
-	{"name":"芙服3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU6.png"},
-	{"name":"芙服p", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU_Porn.png"},
-	{"name":"芙服p1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU_Porn1.png"},
+	{"name":"芙服", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU001.png"},
+	{"name":"芙服1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU5.png"},
+	{"name":"芙服2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU6.png"},
+	{"name":"91芙服", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU_Porn.png"},
+	{"name":"91芙服1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FUFU_Porn1.png"},
 	{"name":"飞跃银河", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FeiyueYinhe.png"},
 	{"name":"飞跃彩虹", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FeiyueRainbow.png"},
 	{"name":"飞跃彩虹1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/FeiyueRainbow1.png"},
@@ -49,14 +47,12 @@
 	{"name":"結束バンド1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Jieshuyuedui1.png"},
 
 	{"name":"Lemby", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Lemby.png"},
-	{"name":"洛北", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Luobei.png"},
 	{"name":"临境", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Liminal.png"},
 	{"name":"琉璃", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Liuqiu.png"},
 	
 	{"name":"Msky", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Msky.png"},
 	{"name":"Misty", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Misty.png"},
 	{"name":"月饼", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Mooncake.png"},
-	{"name":"明天倒闭", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Tomorrow.png"},
 										
 	{"name":"Nebula", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Nebula.png"},
 	{"name":"Ntrrr", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Ntrrr.png"},
@@ -65,7 +61,6 @@
 	{"name":"Odyssey", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Odyssey.png"},
 
 	{"name":"Peach", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Peach.png"},
-	{"name":"Plumber", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Plumber.png"},
 	{"name":"PiliPili", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/PiliPili.png"},
 	{"name":"PornEmby", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/PornEmby.png"},
 		
@@ -74,16 +69,13 @@
 	{"name":"入境", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Rujingemby.png"},
 		
 	{"name":"水母", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Shuimu.png"},
-	{"name":"星猫", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/StarCat.png"},
 	{"name":"SDL", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/SaturDayLite.png"},
-	{"name":"SDL1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/SaturDayLite0.png"},
 	{"name":"SaoDu", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Saodu.png"},
 	{"name":"SaoDu1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Saodu0.png"},
 	{"name":"SaoDu2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Saodu1.png"},
 	{"name":"SaoDu3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Saodu2.png"},
 	{"name":"SaoDu4", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Saodu3.png"},
 	{"name":"SaoDu5", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Saodu4.png"},
-	{"name":"StarEmby", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/StarEmby.png"},
 		
 	{"name":"天南", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Nanflix.png"},
 	{"name":"探花", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Tanhua.png"},
@@ -97,7 +89,6 @@
 	
 	{"name":"稳健", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Wenjian.png"},
 	   
-	{"name":"云上", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/YunShang.png"},
 	{"name":"鸢尾", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/YuanWei.png"},
 	{"name":"叶子", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Yezi.png"},
 	{"name":"叶子1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/entity/Yezi1.png"},
