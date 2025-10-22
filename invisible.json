@@ -3,7 +3,6 @@
  "description":"收录自制+原生图标，携带有®角标即为自制，原生爱好者注意甄别。按服名/群名命名，A-Z排列，方便查找。@xiyu", 
  "icons":
  [	 		
-	{"name":"倒闭®", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/MTDB.png"},
 	{"name":"电视台®", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/DST.png"},
 	{"name":"电视台1®", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/DST1.png"},
 	{"name":"Doubon®", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Doubon.png"},
@@ -30,6 +29,7 @@
 	 		
 	{"name":"ME®", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/ME.png"},
 	{"name":"ME1®", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/ME0.png"},
+	{"name":"明天倒闭®", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/MTDB.png"},
 
 	{"name":"琴鸟®", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/invisible/Q.png"},
 	
