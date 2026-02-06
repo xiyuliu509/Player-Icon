@@ -1,6 +1,6 @@
 {
 "name":"五芙临门 · 芙芙高定二期", 
-"description":"老登再临，图标二期，开工大吉，欢迎品鉴收藏。@xiyu", 
+"description":"老登再临，图标二期，开工大吉。", 
 "icons":
     [
     {"name":"芙芙", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-00.png"},
@@ -19,4 +19,5 @@
 
 	{"name":"未完待续", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/UNFUFU.png"}
     ]
+
 }
