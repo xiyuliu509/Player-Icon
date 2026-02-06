@@ -1,0 +1,22 @@
+{
+"name":"五芙临门 · 芙芙高定二期", 
+"description":"老登再临，图标二期，开工大吉，欢迎品鉴收藏。@xiyu", 
+"icons":
+    [
+    {"name":"芙芙", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-00.png"},
+    {"name":"芙芙0", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-01.png"},
+    {"name":"芙芙1", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-02.png"},
+    {"name":"芙芙2", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-03.png"},
+    {"name":"芙芙3", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-04.png"},
+    {"name":"芙芙4", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-05.png"},
+    {"name":"芙芙5", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-06.png"},
+    {"name":"芙芙6", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-07.png"},
+    {"name":"芙芙7", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-08.png"},
+    {"name":"芙芙8", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu02/FUFU02-09.png"},
+
+
+	{"name":"感谢支持🎉", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/S-FUFU27.png"},
+
+	{"name":"未完待续", "url":"https://raw.githubusercontent.com/xiyuliu509/Player-Icon/refs/heads/master/icon/fufu/UNFUFU.png"}
+    ]
+}
